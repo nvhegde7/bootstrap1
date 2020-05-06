@@ -1,0 +1,48 @@
+.bgimg{
+    background-image: url('k.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width:100%;
+    height:650px;
+    
+}
+.data2{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+.data2 h3{
+    font-size: 80px;
+}
+.port{
+    height:550px;
+    width:100%;
+    padding: 100px 0px 50px;
+
+}
+.card{
+    margin-top: 40px;
+}
+.our{
+    height:700px;
+    padding:100px 180px 60px;
+    width:100%;
+
+}
+.port{
+    height: 2000px;
+}
+.our{
+    height:1300px;
+}
+.teamset{
+    margin-top: 50px;
+}
+@media(min-width:992px){
+
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
+@media(min-width:575px) and (max-width:760px){
+
+}
